@@ -3,6 +3,8 @@ package com.example.firebaserepaso.Google;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.example.firebaserepaso.R;
+
 public class MainGoogleActivity extends AppCompatActivity {
 
     @Override
